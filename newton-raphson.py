@@ -1,3 +1,5 @@
+# newton algorithm for solving non-linear equations
+
 import numpy as np
 from sympy import symbols, diff, Symbol, Matrix, Array
 
